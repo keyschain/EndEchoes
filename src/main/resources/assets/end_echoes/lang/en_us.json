@@ -1,0 +1,13 @@
+{
+  "text.config.end_echoes_config.title": "Echoes of The End - Configuration",
+  "text.config.end_echoes_config.option.doDebugLogs": "Post Debug logs",
+  "itemgroup.end_echoes": "End Echoes",
+  "item.end_echoes.endium_remnant": "Endium Remnants",
+  "item.end_echoes.endium_pickaxe": "Endium Pickaxe",
+  "item.end_echoes.endium_shovel": "Endium Shovel",
+  "item.end_echoes.endium_axe": "Endium Axe",
+  "item.end_echoes.endium_hoe": "Endium Hoe",
+  "item.end_echoes.endium_sword": "Endium Sword",
+  "block.end_echoes.primordial_remains": "Primordial Remains",
+
+}

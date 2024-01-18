@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "end_echoes",
+	"version": "${version}",
+	"name": "Echoes Of The End",
+	"description": "This mod tries to expand the end.",
+	"authors": [
+		"keyschain"
+	],
+	"contact": {
+		"homepage": "https://site.keyschain/#minecraft-mods",
+		"sources": "https://github.com/EndEchoes"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/end_echoes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"site.keyschain.end_echoes.EchoesOfTheEnd"
+		],
+		"client": [
+			"site.keyschain.end_echoes.EchoesOfTheEndClient"
+		],
+		"fabric-datagen": [
+			"site.keyschain.end_echoes.EchoesOfTheEndDataGenerator"
+		]
+	},
+	"mixins": [
+		"end_echoes.mixins.json",
+		{
+			"config": "end_echoes.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

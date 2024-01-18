@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "end_echoes:primordial_remains"
+  },
+  "result": "end_echoes:endium_remnant",
+  "experience": 4,
+  "cookingtime": 100
+}
