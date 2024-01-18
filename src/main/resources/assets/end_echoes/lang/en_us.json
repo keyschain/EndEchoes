@@ -1,13 +1,21 @@
 {
   "text.config.end_echoes_config.title": "Echoes of The End - Configuration",
   "text.config.end_echoes_config.option.doDebugLogs": "Post Debug logs",
-  "itemgroup.end_echoes": "End Echoes",
+  "itemgroup.end_echoes": "Echoes of the End",
   "item.end_echoes.endium_remnant": "Endium Remnants",
   "item.end_echoes.endium_pickaxe": "Endium Pickaxe",
   "item.end_echoes.endium_shovel": "Endium Shovel",
   "item.end_echoes.endium_axe": "Endium Axe",
   "item.end_echoes.endium_hoe": "Endium Hoe",
   "item.end_echoes.endium_sword": "Endium Sword",
+  "item.end_echoes.endium_ingot": "Endium Ingot",
+  "item.end_echoes.endium_upgrade_smithing_template": "Smithing Template",
   "block.end_echoes.primordial_remains": "Primordial Remains",
+  "block.end_echoes.endium_block": "Endium Block",
+  "upgrade.end_echoes.endium.applies_to": "Netherite Equipment",
+  "upgrade.end_echoes.endium.ingredients": "Endium Ingot",
+  "upgrade.end_echoes.endium": "Endium Upgrade",
+  "upgrade.end_echoes.endium.base_slot_text": "Add netherite armor, weapon or tool",
+  "upgrade.end_echoes.endium.additions_slot_text": "Add Endium Ingot"
 
 }

@@ -23,6 +23,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.PRIMORDIAL_REMAINS);
                         entries.add(ModItems.ENDIUM_REMNANTS);
                         entries.add(ModItems.ENDIUM_INGOT);
+                        entries.add(ModItems.ENDIUM_UPGRADE_SMITHING_TEMPLATE);
                         entries.add(ModItems.ENDIUM_PICKAXE);
                         entries.add(ModItems.ENDIUM_AXE);
                         entries.add(ModItems.ENDIUM_SHOVEL);

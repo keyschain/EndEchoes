@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "end_echoes:endium_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "result": {
+    "item": "end_echoes:endium_pickaxe"
+  },
+  "template": {
+    "item": "end_echoes:endium_upgrade_smithing_template"
+  }
+}

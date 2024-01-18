@@ -18,6 +18,8 @@ public class ModBlocks {
 
     public static final Block PRIMORDIAL_REMAINS = registerBlock("primordial_remains",
             new Block(FabricBlockSettings.copyOf(Blocks.ANCIENT_DEBRIS)));
+    public static final Block ENDIUM_BLOCK = registerBlock("endium_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.NETHERITE_BLOCK)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
