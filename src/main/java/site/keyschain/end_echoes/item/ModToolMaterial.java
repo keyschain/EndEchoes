@@ -6,7 +6,7 @@ import net.minecraft.recipe.Ingredient;
 
 import java.util.function.Supplier;
 public enum ModToolMaterial implements ToolMaterial {
-    ENDIUM(5, 2481, 20f, 0f, 22,
+    ENDIUM(5, 2481, 30f, 0f, 22,
             () -> Ingredient.ofItems(ModItems.ENDIUM_INGOT));
 
     private final int miningLevel;
