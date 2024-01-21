@@ -1,8 +1,8 @@
-// 1.20.4	2024-01-18T21:55:51.3131813	Echoes Of The End/Model Definitions
+// 1.20.4	2024-01-20T01:19:47.0285127	Echoes Of The End/Model Definitions
 d0d4fc1fc62de41289e8f40c0c6ccb43c668637f assets\end_echoes\blockstates\endium_block.json
+9a497366c85cd22521117d9160560e372616d656 assets\end_echoes\models\item\endium_axe.json
 596bc228f8969e5ed7233e6560d4ce68fdf0ccb0 assets\end_echoes\models\item\endium_hoe.json
 253d3359f9ee2225814586cc270006105760bbbc assets\end_echoes\models\item\endium_sword.json
-9a497366c85cd22521117d9160560e372616d656 assets\end_echoes\models\item\endium_axe.json
 5b5ac24e3975afd709c7316a96f845cf860b8f65 assets\end_echoes\models\item\endium_upgrade_smithing_template.json
 1be2c72198abbe67d612497aa436c1dfc7486318 assets\end_echoes\models\item\endium_pickaxe.json
 1ab18e7b64605fef43694555962fc98e61cc2e1e assets\end_echoes\models\block\endium_block.json
